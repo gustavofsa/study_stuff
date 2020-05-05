@@ -65,6 +65,11 @@ button:hover {
   width: 18%;
 }
 
+#bottom {
+  background-color: #273443;
+  padding: 20px;
+}
+
 footer {
   display: block;
   padding: 20px;
@@ -80,4 +85,8 @@ footer {
 .footer-text {
   text-align: center;
   color: #FFF;
+}
+
+.footer-text span {
+  color: #e02041
 }
